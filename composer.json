@@ -1,0 +1,22 @@
+{
+    "name": "thinh0212/backend_web2",
+    "description": "Create text",
+    "keywords": [
+    ],
+    "authors": [
+        {
+            "name": "thinh0212",
+            "email": "doquocthinh250296@gmail.com",
+            "homepage": "https://github.com/thinh0212/backend_web2",
+        }
+    ],
+    "license": "MIT",
+    "require": {
+    },
+    "autoload": {
+        "psr-0": {
+            "Backend_web2": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
