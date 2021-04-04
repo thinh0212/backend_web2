@@ -14,8 +14,8 @@
     "require": {
     },
     "autoload": {
-        "psr-0": {
-            "Backend_web2": "src/"
+        "psr-4": {
+            "Tailieuweb\\Backend\\": "/"
         }
     },
     "minimum-stability": "dev"
